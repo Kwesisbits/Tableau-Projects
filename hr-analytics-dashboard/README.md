@@ -35,7 +35,7 @@ The data was first inspected in Excel, where preliminary cleaning and structure 
 Within Tableau:
 - **Filters** were created for Education, Job Role, and Department
 - **Calculated Fields** were used to derive Attrition Rates
-- **KPIs** (Key Performance Indicators) display total employees, attrition percentage, and department-wise stats
+- **KPIs** (Key Performance Indicators) display total employees, attrition percentage, and average age of employees
 - The dashboard layout was built using **containers** to ensure a responsive layout
 
 ---
