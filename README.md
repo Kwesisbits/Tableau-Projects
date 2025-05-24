@@ -1,9 +1,8 @@
 # Tableau-Projects
-A curated collection of interactive Tableau dashboards designed to visualize, explore, and derive insights from various datasets. This repository showcases projects in data storytelling, trend analysis, and dynamic reporting across domains such as finance, health, and operations.
-
-Welcome to my collection of Tableau projects. These dashboards showcase practical applications of Tableau in analyzing real-world datasets through visual storytelling, interactivity, and insightful design.
+Welcome to my collection of Tableau projects: a curated collection of interactive dynamic dashboards designed to visualize, explore, and derive insights from real-world datasets. This repository showcases practical applications of Tableau in data storytelling, trend analysis, and dynamic reporting across domains such as finance, health, and operations — with a focus on clarity, interactivity, and insight-driven design.
 
 ---
+![Tableau Projects Banner](.assets/tableau-banner.png)
 
 ## 🔍 Projects
 
@@ -59,7 +58,7 @@ Each project includes:
 
 ## 👤 About Me
 
-**Username:** [`skiosmith`](https://github.com/skiosmith)  
+**Username:** [`kwesisbits`](https://github.com/kwesisbits)  
 Driven by a passion for meaningful data experiences and impactful dashboard design using Tableau and other visualization tools.
 
 Feel free to explore the dashboards, clone the repository, or connect with me for feedback or collaboration.
